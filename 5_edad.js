@@ -34,9 +34,7 @@ function filtrarUsuarios(usuarios, edadMinima) {
     }
 }
 
-// Pedir edad mínima al usuario
 let edadMinimaTexto = prompt("Ingrese la edad mínima: ");
 let edadMinima = parseInt(edadMinimaTexto);
 
-// Llamar la función
 filtrarUsuarios(usuarios, edadMinima);
