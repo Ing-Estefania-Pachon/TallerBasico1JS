@@ -1,4 +1,4 @@
-//! Validar Contraseña
+//!  Ejercicio 2: Validar Contraseña
 
 // - Formulario de registro.
 //  Crea una función validarContraseña(contraseña) que retorne true si:
